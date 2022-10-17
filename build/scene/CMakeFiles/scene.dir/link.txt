@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libscene.a CMakeFiles/scene.dir/material.cpp.o CMakeFiles/scene.dir/mesh.cpp.o CMakeFiles/scene.dir/model.cpp.o CMakeFiles/scene.dir/scene.cpp.o CMakeFiles/scene.dir/sphere.cpp.o CMakeFiles/scene.dir/triangle.cpp.o CMakeFiles/scene.dir/geometry.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libscene.a
